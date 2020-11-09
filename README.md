@@ -1,5 +1,5 @@
 # k8s notes
-These are my notes about Kubernetes from [LFS58x](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS158x+3T2020/course/) and the various Kubernetes docs to help me learn about [Kubernetes](https://kubernetes.io/) and get a [CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/).
+These are my notes about Kubernetes from [LFS58x](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS158x+3T2020/course/) and the various Kubernetes docs to help me learn about [Kubernetes](https://kubernetes.io/) and get a [CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/) and [CKA](https://www.cncf.io/certification/cka/). Google is offering free labs at [quiklabs](https://google.qwiklabs.com/quests/29?catalog_rank=%7B%22rank%22%3A2%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&search_id=7809120)
 Hopefully they help you too.
 
 ## Table of Contents
